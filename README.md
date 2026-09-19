@@ -1,7 +1,7 @@
 # Crazylator BR
 
-[![Downloads](https://img.shields.io/github/downloads/CrazyForAndroidBR/Crazylator-BR/total?style=for-the-badge&label=downloads)](https://github.com/CrazyForAndroidBR/Crazylator-BR/releases)
-[![Latest release](https://img.shields.io/github/v/release/CrazyForAndroidBR/Crazylator-BR?style=for-the-badge&label=latest)](https://github.com/CrazyForAndroidBR/Crazylator-BR/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/CrazyForAndroidBRDEV/Crazylator-BR/total?style=for-the-badge&label=downloads)](https://github.com/CrazyForAndroidBRDEV/Crazylator-BR/releases)
+[![Latest release](https://img.shields.io/github/v/release/CrazyForAndroidBRDEV/Crazylator-BR?style=for-the-badge&label=latest)](https://github.com/CrazyForAndroidBRDEV/Crazylator-BR/releases/latest)
 
 **Crazylator BR** é um emulador de ambiente Windows para Android, desenvolvido para executar jogos e aplicativos de PC em celulares compatíveis. O projeto organiza cada ambiente em **containers independentes**, permitindo configurar drivers gráficos, Wine, Box64, resolução, áudio, controles e componentes do Windows separadamente.
 
@@ -9,7 +9,7 @@
 
 ## Download
 
-O APK beta está disponível na seção [Releases](https://github.com/CrazyForAndroidBR/Crazylator-BR/releases). O arquivo incluído neste repositório é `Crazylator-BR-Beta.apk`.
+O APK beta está disponível na seção [Releases](https://github.com/CrazyForAndroidBRDEV/Crazylator-BR/releases). O arquivo incluído neste repositório é `Crazylator-BR-Beta.apk`.
 
 Para instalar manualmente, baixe o APK no Android, autorize a instalação de aplicativos de fontes desconhecidas quando o sistema solicitar e instale o arquivo. Antes de testar uma atualização, faça uma cópia dos seus containers importantes.
 
@@ -133,4 +133,4 @@ O crédito desta edição é de **Crazy for Android BR DEV**. Consulte as licen�
 ## Referências
 
 [1]: https://youtube.com/@crazyforandroidbr4644?si=Y04r553HxtrM0Fy7 "Canal Crazy for Android BR"
-[2]: https://github.com/CrazyForAndroidBR/Crazylator-BR/releases "Releases do Crazylator BR"
+[2]: https://github.com/CrazyForAndroidBRDEV/Crazylator-BR/releases "Releases do Crazylator BR"
