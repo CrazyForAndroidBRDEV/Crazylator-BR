@@ -1,12 +1,14 @@
 # Crazylator BR
 
+[Baixar Crazylator 1.1 (APK)](https://github.com/CrazyForAndroidBRDEV/Crazylator-BR/releases/download/v1.1/Crazylator1.1.apk)
+
 [![Downloads](https://img.shields.io/github/downloads/CrazyForAndroidBRDEV/Crazylator-BR/total?style=for-the-badge&label=downloads)](https://github.com/CrazyForAndroidBRDEV/Crazylator-BR/releases)
 [![Downloads 1.1](https://img.shields.io/github/downloads/CrazyForAndroidBRDEV/Crazylator-BR/v1.1?style=for-the-badge&label=downloads%201.1)](https://github.com/CrazyForAndroidBRDEV/Crazylator-BR/releases/tag/v1.1)
 [![Latest release](https://img.shields.io/github/v/release/CrazyForAndroidBRDEV/Crazylator-BR?style=for-the-badge&label=latest)](https://github.com/CrazyForAndroidBRDEV/Crazylator-BR/releases/latest)
 
 **Crazylator BR** é um emulador de ambiente Windows para Android, desenvolvido para executar jogos e aplicativos de PC em celulares compatíveis. O projeto organiza cada ambiente em **containers independentes**, permitindo configurar drivers gráficos, Wine, Box64, resolução, áudio, controles e componentes do Windows separadamente.
 
-> A versão 1.1 está disponível em Releases. O desempenho e a compatibilidade dependem do aparelho, da GPU, da memória disponível, do driver selecionado e do jogo executado.
+> A versão 1.1 está disponível em Releases. Ela traz ajustes voltados a GPUs Adreno que podem ajudar a obter mais FPS em jogos compatíveis. Em GPUs Mali, o resultado depende do jogo, do celular e dos drivers disponíveis. O desempenho varia por aparelho e não há garantia de ganho.
 
 ## Download
 
@@ -20,7 +22,7 @@ Baixe o APK mais recente na página de [Releases](https://github.com/CrazyForAnd
 - **Containers:** gerenciamento dos ambientes separados em modo lista.
 - **Controles de Entrada:** acesso às configurações de controles.
 - **Configurações:** opções gerais do aplicativo organizadas em modo lista.
-- **Hacks (Experimental):** reúne opções como **GenMali**, **GenDreno** e **RamOpt** (otimizador de RAM), além de outros controles experimentais. A disponibilidade e os resultados variam conforme o dispositivo; não há garantia de ganho de desempenho.
+- **Hacks (Experimental):** reúne opções como **GenMali**, **GenDreno** e **RamOpt** (otimizador de RAM), além de outros controles experimentais. As funções são experimentais e podem evoluir conforme o feedback da comunidade em atualizações futuras.
 
 Na comparação com a beta, a navegação mantém Atalhos, Containers, Controles de Entrada e Configurações; **Arquivos externos** deixa de aparecer como aba principal e **Hacks (Experimental)** é incluída.
 
