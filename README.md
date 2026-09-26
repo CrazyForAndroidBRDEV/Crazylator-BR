@@ -5,13 +5,23 @@
 
 **Crazylator BR** é um emulador de ambiente Windows para Android, desenvolvido para executar jogos e aplicativos de PC em celulares compatíveis. O projeto organiza cada ambiente em **containers independentes**, permitindo configurar drivers gráficos, Wine, Box64, resolução, áudio, controles e componentes do Windows separadamente.
 
-> Este projeto é distribuído em versão beta. O desempenho e a compatibilidade dependem do aparelho, da GPU, da memória disponível, do driver selecionado e do jogo executado.
+> A versão 1.1 está disponível em Releases. O desempenho e a compatibilidade dependem do aparelho, da GPU, da memória disponível, do driver selecionado e do jogo executado.
 
 ## Download
 
-O APK beta está disponível na seção [Releases](https://github.com/CrazyForAndroidBRDEV/Crazylator-BR/releases). O arquivo incluído neste repositório é `Crazylator-BR-Beta.apk`.
+Baixe o APK mais recente na página de [Releases](https://github.com/CrazyForAndroidBRDEV/Crazylator-BR/releases/latest). Antes de instalar, faça uma cópia dos seus containers importantes.
 
-Para instalar manualmente, baixe o APK no Android, autorize a instalação de aplicativos de fontes desconhecidas quando o sistema solicitar e instale o arquivo. Antes de testar uma atualização, faça uma cópia dos seus containers importantes.
+> **Instalação da versão 1.1:** ela foi assinada com uma chave diferente da versão beta. O Android não permitirá instalá-la por cima da versão anterior; será necessário removê-la antes. A desinstalação pode apagar dados locais, então faça backup dos containers e arquivos importantes.
+
+## Abas da versão 1.1
+
+- **Atalhos:** acesso aos atalhos configurados.
+- **Containers:** gerenciamento dos ambientes separados.
+- **Controles de Entrada:** acesso às configurações de controles.
+- **Configurações:** opções gerais do aplicativo.
+- **Hacks (Experimental):** opções como GenDreno, GenMali, RamOpt, perfis de RAM e Turbo Mode. A disponibilidade e os resultados variam conforme o dispositivo; não há garantia de ganho de desempenho.
+
+Na comparação com a beta, a navegação mantém Atalhos, Containers, Controles de Entrada e Configurações; **Arquivos externos** deixa de aparecer como aba principal e **Hacks (Experimental)** é incluída.
 
 ## Principais recursos
 
@@ -122,8 +132,9 @@ Acompanhe novidades, testes, tutoriais e atualizações no canal **Crazy for And
 
 ```text
 .
-├── Crazylator-BR-Beta.apk
-└── README.md
+├── README.md
+└── assets/
+    └── 20260919_210957.jpg
 ```
 
 ## Licença e créditos
